@@ -3,6 +3,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. To talk more you can dm on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a>
+
 ## 🔧Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
@@ -17,14 +18,6 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 ![](https://img.shields.io/badge/Tools-Kicad-informational?style=flat&logo=KiCadEDA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=VisualStudio&logoColor=white&color=2bbc8a)
-
-
-
- 
-
-
-
-
 
 
 ## &#x1f4c8; GitHub Stats
