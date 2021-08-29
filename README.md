@@ -21,11 +21,12 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Chemutaiselim/Chemutaiselim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chemutaiselim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://github.com/Chemutaiselim/Chemutaiselim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Chemutaiselim/GADS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chemutaiselim&repo=GADS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
