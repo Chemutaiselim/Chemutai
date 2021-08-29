@@ -32,8 +32,8 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 ## Repos I'm currently working on
 <a href="https://github.com/Chemutaiselim/GADS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chemutaiselim&repo=GADS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <a href="https://github.com/Chemutaiselim/7-segment-arduino-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chemutaiselim&repo=7-segment-arduino-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://github.com/Chemutaiselim/proximus-centuri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chemutaiselim&repo=proximus-centuri&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </a>
 
