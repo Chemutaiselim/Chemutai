@@ -28,6 +28,8 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+## Repos I'm currently working on
 <a href="https://github.com/Chemutaiselim/GADS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chemutaiselim&repo=GADS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <a href="https://github.com/Chemutaiselim/7-segment-arduino-">
@@ -35,12 +37,21 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 </a>
 </a>
 
+
 ## Articles
 
 <a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
    <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/image.png" alt=Image width="300" height="150">
    </a><br>
 <a href=https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf><b>Tips for writing a good Readme file <br> for your github profile </b></a>
+
+
+## Graph Stats
+<!-- GITHUB ACTIVITY GRAPH -->
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
+
+
+ 
  
 
 
