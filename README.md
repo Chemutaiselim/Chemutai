@@ -4,6 +4,26 @@
 
 My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. To talk more you can dm on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a>
 ## 🔧Languages and tools
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MicroChip-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MicroChip-ATmega32-informational?style=flat&logo=AT&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Autodesk-informational?style=flat&logo=Autodesk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kicad-informational?style=flat&logo=KiCadEDA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=VisualStudio&logoColor=white&color=2bbc8a)
+
+
+
+ 
+
+
+
 
 
 
