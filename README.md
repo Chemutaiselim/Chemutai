@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src ="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif" alt="My ReadMe gif">
+
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
