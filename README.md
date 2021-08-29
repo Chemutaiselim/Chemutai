@@ -1,10 +1,10 @@
-<img src ="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png" alt="My ReadMe gif">
+<img src ="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(2).gif" alt="My ReadMe gif">
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. To talk more you can dm on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a>
 ## 🔧Languages and tools
-<img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/figma%20(1).svg" height="40" width="40">
+
 
 
 ## &#x1f4c8; GitHub Stats
