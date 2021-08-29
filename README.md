@@ -34,13 +34,12 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 </a>
 </a>
 
-## You can also do this to your profile
-Add a Readme Profile to your Github profile using steps from my latest article <br>
+## Articles
 
 <a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
-   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/image.png" alt=Image width="500" height="250">
+   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/image.png" alt=Image width="300" height="150">
    </a><br>
-<a href=https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf><b>Tips for writing a good Readme file for your github profile </b></a>
+<a href=https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf><b>Tips for writing a good Readme file <br> for your github profile </b></a>
  
 
 
