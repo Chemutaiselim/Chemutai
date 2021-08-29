@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. To talk more you can dm on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a>
+My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. To talk more you can dm me on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a>
 
 ## 🔧Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
@@ -33,6 +33,15 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chemutaiselim&repo=7-segment-arduino-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </a>
+
+## You can also do this to your profile
+Add a Readme Profile to your Github profile using steps from my latest article <br>
+
+<a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
+   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/image.png" alt=Image width="500" height="250">
+   </a><br>
+<a href=https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf><b>Tips for writing a good Readme file for your github profile </b></a>
+ 
 
 
 
