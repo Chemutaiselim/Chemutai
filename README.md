@@ -1,8 +1,9 @@
-<img src ="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(2).gif" alt="My ReadMe gif">
+<img src ="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(2).gif" alt="My ReadMe gif" >
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. To talk more you can dm me on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a>
+My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. 
+<p>To talk more you can dm me on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a></p>
 
 ## 🔧Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
@@ -38,7 +39,7 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 </a>
 
 
-## Articles
+## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">Articles
 
 <a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
    <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/image.png" alt=Image width="300" height="150">
@@ -46,10 +47,17 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 <a href=https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf><b>Tips for writing a good Readme file <br> for your github profile </b></a>
 
 
-## Graph Stats
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Graph Stats
 <!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
+ 
+<!--<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Chemutaiselim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
+ <!-- <a href="https://github.com/Chemutaiselim/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Chemutaiselim -profile-views"/></a>
+-->
+<br>
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Chemutaiselim}/count.svg" /></p> 
 
  
  
