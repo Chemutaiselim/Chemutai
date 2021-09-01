@@ -1,3 +1,4 @@
+
 <img src ="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(2).gif" alt="My ReadMe gif" >
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -26,6 +27,7 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chemutaiselim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -40,10 +42,18 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 
 
 ## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">Articles
+  
+
+
+<p>
 
 <a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
    <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/Photos/Write%20a%20readme%20for%20your%20github%20profile.png" alt=Image width="300" height="250">
    </a>
+  <a href=https://medium.com/@selimchemutai19/using-github-issues-16c905868c6f>
+     <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/USING%20ISSUES%20ON%20GITHUB%20(1).png" alt="image" width="300" height="250">
+    
+  </p>
 
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Graph Stats
@@ -54,11 +64,9 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
  <!-- <a href="https://github.com/Chemutaiselim/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Chemutaiselim -profile-views"/></a>
 -->
-<br>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Chemutaiselim}/count.svg" /></p> 
 
- 
+
  
 
 
