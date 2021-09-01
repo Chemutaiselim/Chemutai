@@ -42,9 +42,8 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 ## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">Articles
 
 <a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
-   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/image.png" alt=Image width="300" height="150">
-   </a><br>
-<a href=https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf><b>Tips for writing a good Readme file <br> for your github profile </b></a>
+   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/Photos/Write%20a%20readme%20for%20your%20github%20profile.png" alt=Image width="300" height="250">
+   </a>
 
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Graph Stats
