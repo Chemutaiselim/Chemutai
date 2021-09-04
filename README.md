@@ -56,7 +56,7 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
   </p>
 
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Graph Stats
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
 <!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
  
