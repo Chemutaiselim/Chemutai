@@ -48,10 +48,10 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 <p>
 
 <a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
-   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/Photos/Write%20a%20readme%20for%20your%20github%20profile.png" alt=Image width="300" height="250">
+   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/Photos/Write%20a%20readme%20for%20your%20github%20profile.png" alt=Image width="300" height="250" title="Tips for wring a good readme.md for your github profile">
    </a>
   <a href=https://medium.com/@selimchemutai19/using-github-issues-16c905868c6f>
-     <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/USING%20ISSUES%20ON%20GITHUB%20(1).png" alt="image" width="300" height="250">
+     <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/USING%20ISSUES%20ON%20GITHUB%20(1).png" alt="image" width="300" height="250" title="Using GitHub issues">
     
   </p>
 
