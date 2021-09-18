@@ -6,7 +6,7 @@
 My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. 
 <p>To talk more you can dm me on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a></p>
 
-## 🔧Languages and tools
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages and tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
@@ -22,7 +22,7 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 ![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=VisualStudio&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chemutaiselim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
@@ -57,7 +57,7 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
   </p>
 
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
 <!-- GITHUB ACTIVITY GRAPH -->
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
  
