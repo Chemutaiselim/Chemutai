@@ -53,8 +53,8 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
    </a>
   <a href=https://medium.com/@selimchemutai19/using-github-issues-16c905868c6f>
      <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/USING%20ISSUES%20ON%20GITHUB%20(1).png" alt="image" width="300" height="250" title="Using GitHub issues">
-      <a href=https://medium.com/@selimchemutai19/using-github-issues-16c905868c6f>
-     <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/USING%20ISSUES%20ON%20GITHUB%20(1).png" alt="image" width="300" height="250" title="Using GitHub issues">
+      <a href=https://medium.com/@selimchemutai19/using-google-maps-on-android-studio-64adbbf481e5>
+     <img src="https://github.com/Chemutaiselim/reimagined-journey/blob/main/USING%20ISSUES%20ON%20GITHUB%20(2).png" alt="image" width="300" height="250" title="Using google maps">
     
   </p>
 
