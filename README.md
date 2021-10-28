@@ -12,42 +12,33 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/selim_chemutai"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/Chemutaiselim/svg/blob/main/twitter.svg"/></a>
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://medium.com/@selimchemutai19" alt="My Blog" title="My Blog"><img width="32px" src="https://github.com/Chemutaiselim/svg/blob/main/medium.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a 
+     href="https://www.linkedin.com/mwlite/in/pamela-chemutai"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Chemutaiselim/svg/blob/main/linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Kimathi University of Technology, Nyeri. I'm an android, Kotlin and IoT craftsman currently working on a few projects. 
-<p>To talk more you can dm me on twitter <a href=https://twitter.com/selim_chemutai>@selim_chemutai</a> or linkedIn <a href=https://www.linkedin.com/mwlite/in/pamela-chemutai>Pamela Chemutai</a></p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages and tools
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MicroChip-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MicroChip-ATmega32-informational?style=flat&logo=AT&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Autodesk-informational?style=flat&logo=Autodesk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kicad-informational?style=flat&logo=KiCadEDA&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=VisualStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=Android&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/MicroChip-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/MicroChip-ATmega32-informational?style=flat&logo=AT&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Autodesk-informational?style=flat&logo=Autodesk&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Kicad-informational?style=flat&logo=KiCadEDA&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=IntellijIDEA&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-VS-informational?style=flat&logo=VisualStudio&logoColor=white&color=f75c7e)
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chemutaiselim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chemutaiselim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="Chemutai's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
@@ -63,28 +54,16 @@ My name is Pamela Chemutai Selim, a third year Mechatronic student from Dedan Ki
 </a>
 -->
 
-
-## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">Articles
   
 
 
-<p>
 
-<a href="https://medium.com/@selimchemutai19/tips-for-writing-a-good-readme-md-for-your-github-profile-315e6b5d72bf">
-   <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/Photos/Write%20a%20readme%20for%20your%20github%20profile.png" alt=Image width="300" height="250" title="Tips for wring a good readme.md for your github profile">
-   </a>
-  <a href=https://medium.com/@selimchemutai19/using-github-issues-16c905868c6f>
-     <img src="https://github.com/Chemutaiselim/Chemutaiselim/blob/main/USING%20ISSUES%20ON%20GITHUB%20(1).png" alt="image" width="300" height="250" title="Using GitHub issues">
-      <a href=https://medium.com/@selimchemutai19/using-google-maps-on-android-studio-64adbbf481e5>
-     <img src="https://github.com/Chemutaiselim/reimagined-journey/blob/main/USING%20ISSUES%20ON%20GITHUB%20(2).png" alt="image" width="300" height="250" title="Using google maps">
-    
-  </p>
 
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
 <!-- GITHUB ACTIVITY GRAPH -->
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&theme=react-dark)
- 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pamela Chemutai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chemutaiselim&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <!--<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Chemutaiselim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
  <!-- <a href="https://github.com/Chemutaiselim/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Chemutaiselim -profile-views"/></a>
