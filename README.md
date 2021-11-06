@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <!--## <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>Some Repos 
