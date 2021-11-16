@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@selimchemutai19" alt="My Blog" title="My Blog"><img width="32px" src="https://github.com/Chemutaiselim/svg/blob/main/medium.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://dribbble.com/selim_chemutai" alt="My Designs" title="My Blog"><img width="32px" src="https://github.com/Chemutaiselim/svg/blob/main/dribbble.svg"/></a>
+    <a href="https://dribbble.com/selim_chemutai" alt="My Designs" title="My Designs"><img width="32px" src="https://github.com/Chemutaiselim/svg/blob/main/dribbble.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a 
      href="https://www.linkedin.com/mwlite/in/pamela-chemutai"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Chemutaiselim/svg/blob/main/linkedin.svg"></a>
